@@ -48,6 +48,7 @@ button:focus {
 a {
     text-decoration: none !important;
     outline: none;
+    color: #ff546c;
 }
 
 .back-to-top {
