@@ -238,7 +238,7 @@ a {
 }
 
 .navbar-custom.nav-sticky {
-    background-color: #1a1a1a !important;
+    background-color: #202020 !important;
     padding: 15px 0px;
 }
 
@@ -268,7 +268,7 @@ a {
 **********************/
 
 .bg-home {
-    background-color: #1a1a1a;
+    background-color: #202020;
     position: relative;
     padding: 190px 0;
 }
@@ -702,7 +702,7 @@ textarea.form-control {
 }
 
 .footer {
-    background-color: #1a1a1a;
+    background-color: #202020;
     position: relative;
 }
 
