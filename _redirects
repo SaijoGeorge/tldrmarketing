@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://dreamy-lumiere-876cf2.netlify.com/* https://tldrmarketing.com/:splat 301!
