@@ -713,7 +713,7 @@ textarea.form-control {
 
 @media (min-width: 200px) and (max-width: 768px) {
     .navbar-custom {
-        background-color: #000;
+        background-color: #202020;
         padding: 10px 0px !important;
     }
     .navbar-custom .container {
