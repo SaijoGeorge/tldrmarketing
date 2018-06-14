@@ -765,3 +765,10 @@ textarea.form-control {
         display: none;
     }
 }
+
+/*********************
+    13.Custom
+**********************/
+.bio {
+    font-size: .7em;
+}
