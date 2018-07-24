@@ -772,3 +772,16 @@ textarea.form-control {
 .bio {
     font-size: .7em;
 }
+
+.underline-this {
+  background-image: linear-gradient(120deg, #ff546c 0%, #f9e75e 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.4em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
+ }
+
+.underline-this:hover {
+    background-size: 100% 100%;
+    color: #ffffff;
+  }
